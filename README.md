@@ -1,6 +1,6 @@
 # WWLaboratories - Wordpress
 
-WalterWhite Laboratories by thefinalone est l'interface d'un site de vente de produits chimiques réalisé avec (Wordpress pour développeurs)[https://developer.wordpress.org/].
+WalterWhite Laboratories by thefinalone est l'interface d'un site de vente de produits chimiques réalisé avec [Wordpress pour développeurs](https://developer.wordpress.org/).
 
 Thématique et visuels inspirés de la série Breaking Bad.
 
